@@ -9,6 +9,8 @@
 <a href="https://www.linkedin.com/in/md-sahil-3917b4284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheefa-naaz" height="30" width="40" /></a>
 </p>
 
+[![An image of @mdsahilnoob's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mdsahilnoob)](https://holopin.io/@mdsahilnoob)
+
 <!---
 mdsahilnoob/mdsahilnoob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
