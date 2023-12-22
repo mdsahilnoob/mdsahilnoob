@@ -10,7 +10,6 @@
 </p>
 
 [![An image of @mdsahilnoob's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mdsahilnoob)](https://holopin.io/@mdsahilnoob)
-
 [![mdsahilnoob's GitHub | Stats](https://stats.quine.sh/mdsahilnoob/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mdsahilnoob)
 
 [![mdsahilnoob's GitHub | Dependencies](https://stats.quine.sh/mdsahilnoob/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mdsahilnoob)
