@@ -47,22 +47,28 @@ I'm a passionate Student Developer from India, focused on building robust and sc
   <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=html5" alt="HTML5" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=css3" alt="CSS3" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/prisma-4.svg" 
+       alt="Prisma" width="50" height="50"/>
+</p>
 </p>
 
 <h3 align="center">Tools & Platforms</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=intellij" alt="IntelliJ" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=openai" alt="OpenAI" width="50" height="50"/>
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" 
+       alt="IntelliJ IDEA" width="50" height="50"/>
+       <img src="https://skillicons.dev/icons?i=discord" alt="discord" width="50" height="50"/>
 </p>
+
 </div>
 
 ---
