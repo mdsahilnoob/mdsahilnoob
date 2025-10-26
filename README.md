@@ -79,7 +79,7 @@ I'm a passionate Student Developer from India, focused on building robust and sc
 
 - **[Sparkathon](https://github.com/kingCoders60/Sparkathon)** - Reverse logistics for product recycling. Complete Prototype model.
 
-- **[SIH-2K25](https://github.com/kingCoders60/SIH-2K25)** - Scalable, modular MERN-based platform to enhance disaster awareness, preparedness, and response across Indian educational institutions.
+- **[SIH-2K25](https://github.com/shivampatra2027/SIH2025)** - Scalable, modular MERN-based platform to enhance disaster awareness, preparedness, and response across Indian educational institutions.
 
 - **[Load-Balancer](https://github.com/kingCoders60/Load-Balancer)** - Custom load balancing solution ensuring optimal distribution of network traffic for improved performance and reliability.
 
