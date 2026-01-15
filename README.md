@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="screenshot_pc.png" alt="Mohammad Sahil - Developer" />
+  <a href="https://postimg.cc/9rhCtmTD">
+    <img src="https://i.postimg.cc/NfyFtLjk/screenshot_pc.png" alt="Mohammad Sahil - Developer" />
+  </a>
 </div>
 
 <div align="center">
