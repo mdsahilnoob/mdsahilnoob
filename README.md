@@ -93,7 +93,7 @@ I'm a passionate Student Developer from India, focused on building robust and sc
   <img src="https://github-readme-stats.vercel.app/api?username=mdsahilnoob&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=0077be&icon_color=0077be&text_color=ffffff" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsahilnoob&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=0077be&text_color=ffffff" height="180"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsahilnoob&theme=tokyonight&hide_border=true&background=0d1117&stroke=0077be&ring=0077be&fire=39cccc&currStreakLabel=0077be" />
+  <img src="https://streak-stats.demolab.com/?user=mdsahilnoob&theme=tokyonight&hide_border=true&background=0d1117&stroke=0077be&ring=0077be&fire=39cccc&currStreakLabel=0077be" />
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdsahilnoob&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0077be&line=0077be&point=ffffff" />
   <br>
