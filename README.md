@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0077be&center=true&vCenter=true&width=800&lines=Hi%2C%20I'm%20Mohammad%20Sahil!%3B20%20%7C%20University%20Student%20%7C%20Developer%3BScalable%20projects%3BCloud%3BWelcome%20to%20my%20GitHub%20Profile!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0077be&center=true&vCenter=true&width=800&lines=Hi%2C%20I'm%20Mohammad%20Sahil!%3B20%20%7C%20University%20Student%20%7C%20Developer%3BScalable%20projects%3BCloud%3BWelcome%20to%20my%20GitHub%20Profile!" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -97,7 +97,7 @@ I'm a passionate Student Developer from India, focused on building robust and sc
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdsahilnoob&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0077be&line=0077be&point=ffffff" />
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=mdsahilnoob&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mdsahilnoob&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </div>
 
 ---
