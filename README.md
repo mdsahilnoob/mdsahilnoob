@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://postimg.cc/9rhCtmTD">
+  <!-- <a href="https://postimg.cc/9rhCtmTD"> -->
     <img src="https://i.postimg.cc/NfyFtLjk/screenshot_pc.png" alt="Mohammad Sahil - Developer" />
-  </a>
+  <!-- </a> -->
 </div>
 
 <div align="center">
