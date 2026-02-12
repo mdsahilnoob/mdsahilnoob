@@ -77,6 +77,8 @@ I'm a passionate Student Developer from India, focused on building robust and sc
 
 ## Projects
 
+- **[leetcodepremium.xyz](https://github.com/shivampatra2027/Leet-Prep)** - 1800+ LeetCode company-wise questions with logo API and custom backend. 300+ registered users, 1k+ clicks, and high page views. Lighthouse score - 92/96/100/100.
+
 - **[blog_app](https://github.com/kingCoders60/blog_app)** - A Full Stack Scalable Blog website
 
 - **[Sparkathon](https://github.com/kingCoders60/Sparkathon)** - Reverse logistics for product recycling. Complete Prototype model.
