@@ -77,7 +77,7 @@ I'm a passionate Student Developer from India, focused on building robust and sc
 
 ## Projects
 
-- **[leetcodepremium.xyz](https://github.com/shivampatra2027/Leet-Prep)** - 2200+ LeetCode company-wise questions with logo API and custom backend. 1100+ registered users, 15k+ clicks, and high page views. Razorpay integrated. Lighthouse score - 92/96/100/100.
+- **[leetcodepremium.xyz](https://leetcodepremium.xyz)** - 2200+ LeetCode company-wise questions with logo API and custom backend. 1100+ registered users, 15k+ clicks, and high page views. Razorpay integrated. Lighthouse score - 92/96/100/100.
 
 - **[blog_app](https://github.com/kingCoders60/blog_app)** - A Full Stack Scalable Blog website
 
