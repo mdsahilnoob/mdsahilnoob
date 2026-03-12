@@ -81,6 +81,8 @@ I'm a passionate Student Developer from India, focused on building robust and sc
 
 - **[Uni App](https://github.com/mdsahilnoob/uni_app)** - All in one app for your university made in flutter, 100% offline.
 
+- **[AI study](https://github.com/shivampatra2027/rag_project)** - AI studying using rag, chromadb, and more features
+
 - **[Blog Website](https://github.com/kingCoders60/blog_app)** - A Full Stack Scalable Blog website
 
 - **[Sparkathon](https://github.com/kingCoders60/Sparkathon)** - Reverse logistics for product recycling. Complete Prototype model.
