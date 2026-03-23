@@ -81,6 +81,8 @@ I'm a passionate Student Developer from India, focused on building robust and sc
 
 - **[Uni App](https://github.com/mdsahilnoob/uni_app)** - All in one app for your university made in flutter, 100% offline.
 
+- **[devwire times](https://github.com/mdsahilnoob/dev_blogs)** - Open source minimalist dev blogs for beginner developers, with curated latest news.
+
 - **[AI study](https://github.com/shivampatra2027/rag_project)** - AI studying using rag, chromadb, and more features
 
 - **[Blog Website](https://github.com/kingCoders60/blog_app)** - A Full Stack Scalable Blog website
