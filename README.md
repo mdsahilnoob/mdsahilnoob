@@ -33,7 +33,7 @@ I'm a passionate Student Developer from India, focused on building robust and sc
 <div align="center">
 
 <h3 align="center">Languages & Frameworks</h3>
-<p align="center">
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
@@ -53,11 +53,10 @@ I'm a passionate Student Developer from India, focused on building robust and sc
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/prisma-4.svg" 
        alt="Prisma" width="50" height="50"/>
-</p>
-</p>
+</div>
 
 <h3 align="center">Tools & Platforms</h3>
-<p align="center">
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
   <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
@@ -68,8 +67,8 @@ I'm a passionate Student Developer from India, focused on building robust and sc
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/>
   <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" 
        alt="IntelliJ IDEA" width="50" height="50"/>
-       <img src="https://skillicons.dev/icons?i=discord" alt="discord" width="50" height="50"/>
-</p>
+  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="50" height="50"/>
+</div>
 
 </div>
 
