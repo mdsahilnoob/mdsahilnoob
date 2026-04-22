@@ -41,47 +41,22 @@ I'm a passionate Student Developer from India, focused on building robust and sc
 
 ## Tech Stack & Skills
 
-<div align="center" style="max-width:980px; margin:0 auto;">
-
 <h3 align="center">Languages & Frameworks</h3>
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; margin:0 auto;">
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=expressjs" alt="Express.js" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/prisma-4.svg" 
-       alt="Prisma" width="50" height="50"/>
-</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,nodejs,express,mongodb,redis,aws,docker,kubernetes,githubactions,java,c,html,css&perline=9" />
+</p>
 
 <h3 align="center">Tools & Platforms</h3>
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; margin:0 auto;">
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/>
-  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" 
-       alt="IntelliJ IDEA" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="50" height="50"/>
-</div>
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,git,github,figma,vscode,postman,notion,linux,discord&perline=9" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/prisma-4.svg" width="50" />
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" width="50" />
+</p>
 
 ---
 
